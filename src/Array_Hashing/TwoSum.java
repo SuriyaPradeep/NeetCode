@@ -25,6 +25,8 @@ public class TwoSum {
     loop through the array and find its complement i.e. target-number.
     if the complement is already there in the hashmap return get the index of the number.
     return complement's index and current number's index.
+    Time:O(N)
+    Space:O(N)
      */
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hash=new HashMap<>();
