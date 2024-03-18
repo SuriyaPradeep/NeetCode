@@ -23,6 +23,9 @@ public class ContainsDuplicate {
     set.add return a boolean value true if the new element is added false if not added.
     Set will not add elements that are already present in the set.
     so if set.add() is false then return true.
+
+    Time:O(N)
+    Space:O(N)
      */
     public boolean containsDuplicate(int[] nums) {
         Set<Integer>set=new HashSet<>();
