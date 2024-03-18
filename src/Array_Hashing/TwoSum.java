@@ -19,6 +19,13 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
  */
 public class TwoSum {
+    /*
+    To return index of two elements in array that add up to target value.
+    Here we use a hashmap to store a number and its index.
+    loop through the array and find its complement i.e. target-number.
+    if the complement is already there in the hashmap return get the index of the number.
+    return complement's index and current number's index.
+     */
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hash=new HashMap<>();
         for(int i=0;i<nums.length;i++){
