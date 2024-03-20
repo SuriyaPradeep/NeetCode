@@ -15,3 +15,14 @@
 7.Valid Sudoku
 
 8.String Encode and Decode
+
+9.Longest Consecutive Sequence
+
+## Two Pointer's
+10.Valid Palindrome
+
+11.Two Sum II - Input Array Is Sorted
+
+12.3Sum
+
+13.Container With Most Water
