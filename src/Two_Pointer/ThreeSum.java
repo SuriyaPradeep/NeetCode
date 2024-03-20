@@ -29,6 +29,8 @@ public class ThreeSum {
     First Loop i=0 runs till array.length-3 && nums[i]<=0.
     Second loop similar to two pointer sorted array left<right.Here left=i+1,right-n-1.
     if sum>0 decrease right sum<0 increase left if sum=0 add i,left,right to the list and increase left.
+    Time Complexity:O(N^2)
+    Space Complexity:O(N)
      */
     public List<List<Integer>> threeSum(int[] nums) {
         Set<List<Integer>> indices = new HashSet();
