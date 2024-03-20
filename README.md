@@ -15,3 +15,5 @@
 7.Valid Sudoku
 
 8.String Encode and Decode
+
+9.Longest Consecutive Sequence
