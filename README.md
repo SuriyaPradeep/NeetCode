@@ -28,3 +28,8 @@
 13.Container With Most Water
 
 14.Trapping Rain Water
+
+## Stacks
+15.Valid Parentheses
+
+16.Min Stack
