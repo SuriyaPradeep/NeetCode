@@ -31,3 +31,5 @@
 
 ## Stacks
 15.Valid Parentheses
+
+16.Min Stack
