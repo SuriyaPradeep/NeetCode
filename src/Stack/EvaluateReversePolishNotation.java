@@ -37,6 +37,8 @@ public class EvaluateReversePolishNotation {
     If not push the string to stack as integer.
     If it is any of operand then pop stack two times to get recent two numbers and perform calculations according to given operand.
     And push the calculated value to the stack.
+    Time Complexity:O(N)
+    Space Complexity:O(N)
      */
     public int evalRPN(String[] tokens) {
         Stack<Integer>stack=new Stack<>();
