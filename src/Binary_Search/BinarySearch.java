@@ -21,6 +21,7 @@ public class BinarySearch {
     if mid value is greater than target then decrease right to mid-1
     else return mid
     If target is not found after complete iterations then return -1
+    Time Complexity:O(LogN)
      */
     public int search(int[] nums, int target) {
         int left=0,right=nums.length-1;
