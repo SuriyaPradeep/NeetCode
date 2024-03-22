@@ -36,4 +36,6 @@
 
 17.Evaluate Reverse Polish Notation
 
-18.Daily Temperatures
+18.Generate Parentheses
+
+19.Daily Temperatures
