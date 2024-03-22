@@ -39,3 +39,12 @@
 18.Generate Parentheses
 
 19.Daily Temperatures
+
+20.Car Fleet
+
+21.Largest Rectangle in Histogram
+
+##Binary Search
+22.Binary Search
+
+23.Search a 2D Matrix
