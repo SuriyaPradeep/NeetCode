@@ -22,7 +22,7 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 public class FindMinimuminRotatedSortedArray {
     /*
     Here like binary search we initialize two pointers left=0 and right=n-1
-    find mid for these pointers if mid[mid] is less then its previous element then its the minimum like in array 3 4 5 1 2 this condition is only possible for value 1
+    find mid for these pointers if nums[mid] is less then its previous element then its the minimum like in array 3 4 5 1 2 this condition is only possible for value 1
     otherwise if mid is greater than both left and right then smaller elements are in its right so shift left to mid+1
     else right=mid-1
     if min is not found here then at end return num[left] here left will be pointing to minimum element
