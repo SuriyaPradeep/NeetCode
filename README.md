@@ -48,3 +48,9 @@
 22.Binary Search
 
 23.Search a 2D Matrix
+
+24.Koko Eating Bananas
+
+25.Find Minimum in Rotated Sorted Array
+
+26.Search in Rotated Sorted Array
