@@ -35,7 +35,7 @@ public class LargestRectangleinHistogram {
             return heights[0];
         }
         int maxArea=0,start;
-        Stack<Pair<Integer,Integer>>stack=new Stack<Pair<Integer, Integer>>();
+        Stack<Pair<Integer,Integer>>stack=new Stack<>();
         for(int i=0;i<n;i++){
             start=i;
             int curHeight=heights[i];
