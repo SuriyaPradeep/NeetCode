@@ -58,3 +58,14 @@
 27.Time Based Key-Value Store
 
 28.Median of Two Sorted Arrays
+
+## Sliding Window
+29.Best Time to Buy and Sell Stock
+
+30.Longest Substring Without Repeating Characters
+
+31.Longest Repeating Character Replacement
+
+32.Permutation in String
+
+33.Minimum Window Substring
