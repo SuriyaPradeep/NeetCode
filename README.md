@@ -78,3 +78,6 @@
 36.Merge Two Sorted Lists
 
 37.Reorder List
+
+38.Remove Nth Node From End of List
+
