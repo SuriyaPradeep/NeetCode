@@ -89,4 +89,6 @@
 
 42.Find the Duplicate Number
 
+43.LRU Cache
+
 
