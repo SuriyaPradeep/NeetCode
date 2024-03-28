@@ -86,3 +86,7 @@
 40.Add Two Numbers
 
 41.Linked List Cycle
+
+42.Find the Duplicate Number
+
+
