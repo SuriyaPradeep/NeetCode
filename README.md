@@ -81,3 +81,12 @@
 
 38.Remove Nth Node From End of List
 
+39.Copy List with Random Pointer
+
+40.Add Two Numbers
+
+41.Linked List Cycle
+
+42.Find the Duplicate Number
+
+
