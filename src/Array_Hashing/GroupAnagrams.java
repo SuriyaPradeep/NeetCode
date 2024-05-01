@@ -38,10 +38,7 @@ public class GroupAnagrams {
             }
             hash.get(sortedString).add(str);
         }
-        List<List<String>> ans = new ArrayList<>();
-        for (String s:hash.keySet()){
-            ans.add(hash.get(s));
-        }
+        List<List<String>> ans = new ArrayList<>(hash.values());
         return ans;
     }
 }
