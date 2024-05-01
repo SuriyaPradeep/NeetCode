@@ -50,7 +50,7 @@ public class TopKFrequentElements {
         for(int num:nums){
             hash.put(num,hash.getOrDefault(num,0)+1);
         }
-        List<Integer>[] bucket=new List[nums.length+1];
+        List<Integer>[] bucket=new List[nums.length+1];//An array of list of integers
         for(int key:hash.keySet()){
             int freq=hash.get(key);
             if(bucket[freq]==null){
