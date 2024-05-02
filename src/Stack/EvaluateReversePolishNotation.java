@@ -66,4 +66,20 @@ public class EvaluateReversePolishNotation {
                 return -1;
         }
     }
+
+    //Alternate
+    public int evalRPN1(String[] tokens) {
+        List<String> operators = List.of("+", "-", "*", "/");
+        Stack<Integer>stack=new Stack<>();
+        int total=0;
+        for(String str:tokens){
+            if(operators.contains(str)){
+                int b=stack.pop(),a=stack.pop();
+                stack.push(calculate(a,b,str));
+            }else{
+                stack.push(Integer.parseInt(str));
+            }
+        }
+        return stack.pop();
+    }
 }
