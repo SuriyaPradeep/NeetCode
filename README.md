@@ -97,3 +97,13 @@
 
 ## Trees
 46.Invert Binary Tree
+
+47.Maximum Depth of Binary Tree
+
+48.Diameter of Binary Tree
+
+49.Balanced Binary Tree
+
+50.Same Tree
+
+51.Subtree of Another Tree
