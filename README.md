@@ -107,3 +107,5 @@
 50.Same Tree
 
 51.Subtree of Another Tree
+
+52.Lowest Common Ancestor of a Binary Search Tree
