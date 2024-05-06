@@ -109,3 +109,9 @@
 51.Subtree of Another Tree
 
 52.Lowest Common Ancestor of a Binary Search Tree
+
+53.Binary Tree Level Order Traversal
+
+54.Binary Tree Right Side View
+
+55.Count Good Nodes in Binary Tree
