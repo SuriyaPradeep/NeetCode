@@ -1,4 +1,4 @@
-# Neet-150
+  # Neet-150
 ## Array & Hashing
 1.Contains Duplicate
 
@@ -119,3 +119,5 @@
 56.Validate Binary Search Tree
 
 57.Kth Smallest Element in a BST
+
+58.Construct Binary Tree from Preorder and Inorder Traversal
