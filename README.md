@@ -115,3 +115,7 @@
 54.Binary Tree Right Side View
 
 55.Count Good Nodes in Binary Tree
+
+56.Validate Binary Search Tree
+
+57.Kth Smallest Element in a BST
