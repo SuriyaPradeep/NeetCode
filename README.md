@@ -126,3 +126,6 @@
 
 60.Serialize and Deserialize Binary Tree
 
+## Tries
+61.Implement Trie (Prefix Tree)
+
